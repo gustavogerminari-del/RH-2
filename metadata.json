@@ -1,0 +1,6 @@
+{
+  "name": "GESTRH - Gestão de RH e Recrutamento",
+  "description": "Plataforma completa de Gestão de RH, Recrutamento com IA, Portal do Candidato, Área da Empresa e Painel Master SaaS.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
